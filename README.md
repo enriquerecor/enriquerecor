@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @enriquerecor
+- 👀 I’m interested in learning as much as I can
+- 🌱 I’m currently studiying Computer Science at the Universidad Pontificia de Salmanca (UPSA)
+- 📫 How to reach me: https://www.linkedin.com/in/enrique-redondo-cortés-a3b497235/
